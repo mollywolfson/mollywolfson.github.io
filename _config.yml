@@ -39,6 +39,8 @@ navigation_header:
 #    url: /
 #  - title: About
 #    url: /about/
+  - title: XQR-30
+    url: https://xqr30.inaf.it
   - title: ENIGMA Group
     url: http://enigma.physics.ucsb.edu
 
