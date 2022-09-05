@@ -31,8 +31,13 @@ github_username:  mollywolfson
 # theme: minima
 remote_theme: daviddarnes/alembic@main
 plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
   - jekyll-feed
-
+  - jekyll-commonmark
 
 navigation_header:
   - title: Home
